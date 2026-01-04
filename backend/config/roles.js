@@ -1,1 +1,6 @@
+export const ROLES = {
+  ADMIN: 'ADMIN',
+  ADMIN_GENERAL: 'ADMIN_GENERAL',
+  PUBLICO: 'PUBLICO'
+};
 
